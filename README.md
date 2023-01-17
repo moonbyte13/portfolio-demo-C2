@@ -4,7 +4,8 @@
 This was a fun project. I assume we will use these skills and even some of this code to help build our own portfolios. I struggle the most with different browsers creating vertical scroll when width is set less that 100%.
 
 ## Deployment Link 🔗
-
+[Demo Portfolio](https://xmoonphasex.github.io/portfolio-demo-C2/)<br>
+[Repo](https://github.com/XMoonphaseX/portfolio-demo-C2)
 
 ## User Story 📘
 * AS AN employer
@@ -29,15 +30,15 @@ This was a fun project. I assume we will use these skills and even some of this 
 <br><br><br>
 
 ## Demo Given
-<img src='./assets/images/02-advanced-css-homework-demo.gif' width= 95%>
+<img src='./assets/images/02-advanced-css-homework-demo.gif' width= 50%>
 <br><br><br>
 
 ## Deploment Screen Horizontal
-<img src='./assets/images/deployment-screen-horizontal.png' width= 95%>
+<img src='./assets/images/deployment-screen-horizontal.png' width= 50%>
 <br><br><br>
 
 ## Deployment Screen Vertical
-<img src='./assets/images/deployment-screen-vertical.png'>
+<img src='./assets/images/deployment-screen-vertical.png' width= 50%>
 <br><br><br>
 
 ## Deployment Screenshot Mobile
