@@ -94,6 +94,7 @@ figcaption h2{
   width: max-content;
   border-radius: 4px;
   overflow: clip;
+  margin-right: 10px;
 }
 
 .body {
@@ -298,6 +299,10 @@ footer li {
 
   a.card {
     width: 100%;
+  }
+  
+  a.card .header-card {
+    max-width: min-content;
   }
 
   a.card:nth-child(1){

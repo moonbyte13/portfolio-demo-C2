@@ -1,7 +1,9 @@
 # Module-2-Challenge
 
 ## Description
-This was a fun project. I assume we will use these skills and even some of this code to help build our own portfolios. I struggle the most with different browsers creating vertical scroll when width is set less that 100%.
+This was a fun project. I assume we will use these skills and even some of this code to help build our own portfolios.
+<br>
+I struggled the most with different browsers creating vertical scroll when width is set less that 100%.
 
 ## Deployment Link 🔗
 [Demo Portfolio](https://xmoonphasex.github.io/portfolio-demo-C2/)<br>
@@ -42,14 +44,14 @@ This was a fun project. I assume we will use these skills and even some of this 
 <br><br><br>
 
 ## Deployment Screenshot Mobile
-
+<img src='./assets/images/deployment-screenshot-mobile.png'>
 <br><br><br>
 
 ## Credits
-<!-- I found this free use photo off of flickr!<br>
-https://www.flickr.com/photos/janlupus/3325782784<br>
-But then  -->I realised an easier way was to use picsum for beautiful Lorem Picsum photos!
-<br><br><br>
+I realised an easier way was to use picsum for beautiful Lorem Picsum photos!
+<br>
+I just couldn't figure how to change the pictures on refresh. (it only works sometimes)
+<br><br>
 
 ## Licence 🔑
 MIT © XMoonphaseX
