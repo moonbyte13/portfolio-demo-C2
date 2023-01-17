@@ -10,6 +10,7 @@ This was a fun project. I assume we will use these skills and even some of this 
 * AS AN employer
 * I WANT to view a potential employee's deployed portfolio of work samples
 * SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+<br><br>
 
 ## Acceptance Criteria ✅
 * GIVEN I need to sample a potential employee's previous work
@@ -25,26 +26,29 @@ This was a fun project. I assume we will use these skills and even some of this 
 * THEN I am taken to that deployed application
 * WHEN I resize the page or view the site on various screens and devices
 * THEN I am presented with a responsive layout that adapts to my viewport
+<br><br><br>
 
 ## Demo Given
-<img src='./assets/images/02-advanced-css-homework-demo.gif'>
-<br></br>
+<img src='./assets/images/02-advanced-css-homework-demo.gif' width= 95%>
+<br><br><br>
 
 ## Deploment Screen Horizontal
-<img src='./assets/images/deployment-screen-horizontal.png'>
-<br></br>
+<img src='./assets/images/deployment-screen-horizontal.png' width= 95%>
+<br><br><br>
 
 ## Deployment Screen Vertical
 <img src='./assets/images/deployment-screen-vertical.png'>
-<br></br>
+<br><br><br>
 
 ## Deployment Screenshot Mobile
 
+<br><br><br>
 
 ## Credits
-I found this free use photo off of flickr!
-https://www.flickr.com/photos/janlupus/3325782784
+I found this free use photo off of flickr!<br>
+https://www.flickr.com/photos/janlupus/3325782784<br>
 But then I realised an easier way was to use picsum for beautiful Lorem Picsum photos!
+<br><br><br>
 
 ## Licence 🔑
 MIT © XMoonphaseX
