@@ -70,16 +70,19 @@ footer li {
 }
 
 /* Background banner */
-#background {
+#banner {
   width: 100%;
-  height: auto;
+  height: 200px;
   max-height: 200px;
+  background: no-repeat center/100% url('https://picsum.photos/1980/1260?random=1');
+  
 }
 
 figcaption {
   position: absolute;
-  right: 25px;
-  margin-top: -150px;
+  right: 0;
+  margin-top: 50px;
+  overflow: hidden;
 }
 
 /* Banner subtitle tag */
@@ -90,6 +93,7 @@ figcaption h2{
   font-size: 400%;
   width: max-content;
   border-radius: 4px;
+  overflow: clip;
 }
 
 .body {
@@ -166,32 +170,32 @@ a.card:hover,
 a.card:nth-child(1) {
   width: 95%;
   margin-top: 50px;
-  background: no-repeat center/100% url('https://picsum.photos/1980/1260?random=1');
+  background: no-repeat center/100% url('https://picsum.photos/1980/1260?random=2');
 }
 
 /* Sets the background picture of the second card */
 a.card:nth-child(2){
-  background-image: url('https://picsum.photos/600/250?random=2');
+  background-image: url('https://picsum.photos/600/250?random=3');
 }
 
 /* Sets the background picture of the third card */
 a.card:nth-child(3){
-  background-image: url('https://picsum.photos/600/250?random=3');
+  background-image: url('https://picsum.photos/600/250?random=4');
 }
 
 /* Sets the background picture of the fourth card */
 a.card:nth-child(4){
-  background-image: url('https://picsum.photos/600/250?random=4');
+  background-image: url('https://picsum.photos/600/250?random=5');
 }
 
 /* Sets the background picture of the fifth card */
 a.card:nth-child(5){
-  background-image: url('https://picsum.photos/600/250?random=5');
+  background-image: url('https://picsum.photos/600/250?random=6');
 }
 
 /* Sets the background picture of the sixth card */
 a.card:nth-child(6){
-  background-image: url('https://picsum.photos/600/250?random=6');
+  background-image: url('https://picsum.photos/600/250?random=7');
 }
 
 /* Aside headers container and horizontal line */
@@ -298,5 +302,14 @@ footer li {
 
   a.card:nth-child(1){
     margin: 0;
+  }
+  /* Adds a horizontal margin */
+  article p {
+    margin: 0 5%;
+  }
+  /* Fixes list column spacing */
+  header li,
+  footer li{
+    margin: 0 0 5% 0;
   }
 }

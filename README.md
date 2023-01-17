@@ -46,9 +46,9 @@ This was a fun project. I assume we will use these skills and even some of this 
 <br><br><br>
 
 ## Credits
-I found this free use photo off of flickr!<br>
+<!-- I found this free use photo off of flickr!<br>
 https://www.flickr.com/photos/janlupus/3325782784<br>
-But then I realised an easier way was to use picsum for beautiful Lorem Picsum photos!
+But then  -->I realised an easier way was to use picsum for beautiful Lorem Picsum photos!
 <br><br><br>
 
 ## Licence 🔑
