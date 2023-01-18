@@ -117,6 +117,19 @@ article p {
   line-height: 2;
 }
 
+.about-me {
+  display: flex;
+  flex-direction: row
+}
+
+.about-me img {
+  margin: 2%;
+  height: 300px;
+  max-width: 300px;
+  min-width: 300px;
+  border-radius: 150px;
+}
+
 /* Work container set to flex-start(left) */
 #work {
   display: flex;
@@ -262,6 +275,10 @@ footer li {
   aside h5  {
     font-size: 300%;
   }
+  
+  .about-me {
+    flex-direction: column;
+  }
 }
 
 /* If max screen width < 800px */
@@ -279,6 +296,10 @@ footer li {
   /* Fixes title padding */
   h1 {
     padding: 2%;
+  }
+
+  .about-me {
+    align-items: center;
   }
 
   /* Changes aside border to bottom */
