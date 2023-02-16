@@ -54,4 +54,4 @@ I just couldn't figure how to change the pictures on refresh. (it only works som
 <br><br>
 
 ## Licence 🔑
-MIT © XMoonphaseX
+MIT © moonphase13
