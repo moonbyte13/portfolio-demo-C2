@@ -6,8 +6,8 @@ This was a fun project. I assume we will use these skills and even some of this 
 I struggled the most with different browsers creating vertical scroll when width is set less that 100%.
 
 ## Deployment Link 🔗
-[Demo Portfolio](https://xmoonphasex.github.io/portfolio-demo-C2/)<br>
-[Repo](https://github.com/XMoonphaseX/portfolio-demo-C2)
+[Demo Portfolio](https://moonphase13.github.io/portfolio-demo-C2/)<br>
+[Repo](https://github.com/moonphase13/portfolio-demo-C2)
 
 ## User Story 📘
 * AS AN employer
@@ -54,4 +54,4 @@ I just couldn't figure how to change the pictures on refresh. (it only works som
 <br><br>
 
 ## Licence 🔑
-MIT © XMoonphaseX
+MIT © moonphase13
