@@ -212,6 +212,11 @@ a.card:nth-child(6){
   background-image: url('https://picsum.photos/600/250?random=7');
 }
 
+/* Sets the background picture of the seventh card */
+a.card:nth-child(7){
+  background-image: url('https://picsum.photos/600/250?random=8');
+}
+
 /* Aside headers container and horizontal line */
 aside {
   display: flex;
