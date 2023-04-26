@@ -303,6 +303,10 @@ footer li {
     padding: 2%;
   }
 
+  a.card .header-card {
+    width: max-content;
+  }
+
   .about-me {
     align-items: center;
   }
