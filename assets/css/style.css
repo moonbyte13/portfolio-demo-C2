@@ -164,7 +164,7 @@ a.card {
 
 /* Card header tag */
 a.card .header-card {
-  width: max-content;
+  width: content;
   margin-bottom: 30px;
   padding: 20px;
   background-color: #DCA8FF;
